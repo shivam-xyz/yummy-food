@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/yummy-food/static/css/main.073c9b0a.css",
-    "main.js": "/yummy-food/static/js/main.cca35529.js",
+    "main.js": "/yummy-food/static/js/main.6d19af6f.js",
     "index.html": "/yummy-food/index.html",
     "main.073c9b0a.css.map": "/yummy-food/static/css/main.073c9b0a.css.map",
-    "main.cca35529.js.map": "/yummy-food/static/js/main.cca35529.js.map"
+    "main.6d19af6f.js.map": "/yummy-food/static/js/main.6d19af6f.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.cca35529.js"
+    "static/js/main.6d19af6f.js"
   ]
 }
